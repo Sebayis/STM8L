@@ -1,3 +1,4 @@
+
 # STM8l
 A repo to keep track of all the versions and the docs for our project
 
@@ -24,6 +25,4 @@ https://www.saleae.com/downloads/
 # General Instructions
 
 For general instructions please refer to this file:
-
-[General Instructions]: https://github.com/katistix/STM8l/blob/main/Personal%20Docs/General%20Instrunctions.md	"General Instructions"
-
+[General Instructions](https://github.com/katistix/STM8l/blob/main/Personal%20Docs/General%20Instrunctions.md)
