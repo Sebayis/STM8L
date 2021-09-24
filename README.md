@@ -33,3 +33,6 @@ For general instructions please refer to this file:
 
 [STSW-CONNECT009](https://www.st.com/en/embedded-software/stsw-connect009.html)
 
+# Random Links
+
+[7 Digit Wikipedia](https://en.wikipedia.org/wiki/Seven-segment_display_character_representations)
