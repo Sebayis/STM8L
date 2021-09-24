@@ -16,12 +16,4 @@ This way we can simply set the C7 pin to high `GPIOC->ODR |= GPIO_Pin_7;` to tur
 
 The green LED is on pin E7: `GPIOE->ODR |= GPIO_Pin_7;`, `GPIOE->ODR &= ~GPIO_Pin_7;`
 
-### The matrix for the new display
-
-### F G E -
-
-### A B C -
-
-### - - - D
-
-### - - - -
+### 
