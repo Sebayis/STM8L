@@ -20,6 +20,10 @@ https://www.st.com/en/embedded-software/stsw-stm8010.html
 
 https://www.saleae.com/downloads/
 
+### Spirit
+
+https://www.st.com/en/embedded-software/stsw-connect009.html
+
 # General Instructions
 
 For general instructions please refer to this file:
@@ -27,11 +31,7 @@ For general instructions please refer to this file:
 
 # Documentation Links
 
-[Spirit1-development-kit.pdf](https://www.st.com/resource/en/user_manual/dm00092275-spirit1-development-kit-stmicroelectronics.pdf)
-
-[Reference Manual (All MCU Family)](https://www.st.com/resource/en/reference_manual/cd00218714-stm8l050j3-stm8l051f3-stm8l052c6-stm8l052r8-mcus-and-stm8l151l152-stm8l162-stm8al31-stm8al3l-lines-stmicroelectronics.pdf)
-
-[STSW-CONNECT009](https://www.st.com/en/embedded-software/stsw-connect009.html)
+[Find all documentation files here](./Docs)
 
 # Random Links
 
