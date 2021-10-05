@@ -4,6 +4,10 @@ A repo to keep track of all the versions and the docs for our project
 
 # Installation Links
 
+### Installation tutorial
+
+(https://youtu.be/9E7AmWSQYI4)[Tutorial on YouTube]
+
 ### Software Development Tools
 
 https://www.st.com/en/development-tools/stm8-software-development-tools.html#products
