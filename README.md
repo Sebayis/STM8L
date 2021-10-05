@@ -6,7 +6,7 @@ A repo to keep track of all the versions and the docs for our project
 
 ### Installation tutorial
 
-(https://youtu.be/9E7AmWSQYI4)[Tutorial on YouTube]
+[https://youtu.be/9E7AmWSQYI4](Tutorial on YouTube)
 
 ### Software Development Tools
 
