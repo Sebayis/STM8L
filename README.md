@@ -30,7 +30,8 @@ https://www.st.com/en/embedded-software/stsw-connect009.html
 
 # Documentation Links
 
-[Find all documentation files here](./Docs)
+[Documentation for the main board and more](./Docs)
+[Documentation for the new display](./SML08239)
 
 # General Instructions
 
